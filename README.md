@@ -1,0 +1,2 @@
+# Procesamientocomputacional
+Image pre-procesing 
